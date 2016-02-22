@@ -1,0 +1,46 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color: white;
+	color: #808080;
+}
+a{
+	text-decoration: none;
+}
+header{
+	padding-top: 10px;
+}
+header img{
+	width: 180px;
+}
+nav ul{
+	list-style-type: none;
+}
+nav li{
+	display: inline-block;
+}
+nav{
+	float: right;
+	margin-top: 7px;
+}
+nav li a{
+	color: #808080;
+	padding: 10px 25px;
+}
+nav li a:hover{
+	color: white;
+	text-shadow: 0px 0px 2px white;
+	background-color: #808080;
+}
+.principal{
+	background-color: #808080;
+	color: white;
+}
+.pd-55{
+	padding: 55px 0px;
+}
+.pt-45{
+	padding-top: 45px;
+}
+.text-title{
+	font-size: 30px;
+}
